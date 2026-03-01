@@ -24,3 +24,4 @@ This project is a simple To-Do application created for Git laboratory work.
 
 The purpose of this project is to practice Git repository management, commits, branches and merges.
 
+Updated from GitHub UI
