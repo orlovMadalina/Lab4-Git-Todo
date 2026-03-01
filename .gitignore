@@ -1,0 +1,12 @@
+# system files
+.DS_Store
+Thumbs.db
+
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# user files
+*.user
+*.suo
